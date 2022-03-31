@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main_share.dir/src/main.cpp.o  -o main_share -Wl,-rpath,/home/ownet10/c++_test/sample_ws/build libhello_share.so 
